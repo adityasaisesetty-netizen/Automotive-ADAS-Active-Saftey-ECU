@@ -38,4 +38,11 @@ An embedded Advanced Driver Assistance System (ADAS) ECU prototype developed on 
 * **Development Environment:** VS Code with PlatformIO IDE
 
 ---
+## 🚀 Build and Flash Instructions
+
+1. **Clone the Repository:**
+   ```bash
+   git clone [https://github.com/adityasaisesetty-netizen/Automotive-ADAS-Active-Saftey-ECU.git]
+   cd Automotive-ADAS-Active-Safety-ECU-STM32
+
 
